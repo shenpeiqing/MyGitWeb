@@ -15,6 +15,7 @@ public class ServletDemo extends HttpServlet {
         System.out.println("hehe");
         System.out.println("hehe");
         System.out.println("hehe");
+        System.out.println("asfasdfs");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
